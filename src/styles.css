@@ -1,0 +1,7 @@
+/*
+ver que este archivo, lo pusimos directamente en la carpeta source, y esta es la mejor forma, ya que frameworks como 
+angular o react recocnocen este archivo como el global o el mas importante*/
+
+html,body{
+    background-color: blue;
+}

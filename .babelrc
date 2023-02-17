@@ -1,0 +1,10 @@
+//el . al inicio del archivo, es para que sea un archivo oculto.
+
+//para que minimice todo el codifo .js
+{
+    "presets": ["@babel/preset-env","minify"]
+}
+
+//esta forma de hacerlo esta un poco obsoleta, babel ha dejado de funcionar en algunas de sus caracteristicas.
+//por ende hay que buscar otra forma de minimizar los archivos js al ser enviados al dist.
+
